@@ -1,0 +1,8 @@
+395
+6
+Kai
+boy
+4
+9
+Darkblade
+file:src/bgs/door.jpeg
